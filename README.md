@@ -1,1 +1,1 @@
-A React list demo
+A React skeleton with bootstrap
